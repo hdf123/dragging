@@ -1,0 +1,27 @@
+html, body {
+  margin: 0 auto;
+}
+
+body {
+  max-width: 10rem;
+}
+
+.headers {
+  width: 10rem;
+  position: fixed;
+  top: 0;
+  left: auto;
+}
+
+.contents {
+  width: 100%;
+}
+
+.footers {
+  width: 10rem;
+  position: fixed;
+  left: auto;
+  bottom: 0;
+}
+
+/*# sourceMappingURL=layouts.css.map */
